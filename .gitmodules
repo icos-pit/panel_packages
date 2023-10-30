@@ -1,0 +1,3 @@
+[submodule "agrorob_panel_launch"]
+	path = agrorob_panel_launch
+	url = https://github.com/icos-pit/agrorob_panel_launch.git
