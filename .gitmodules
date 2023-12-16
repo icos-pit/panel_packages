@@ -7,3 +7,6 @@
 [submodule "agrorob_rviz_streetmap"]
 	path = agrorob_rviz_streetmap
 	url = https://github.com/icos-pit/agrorob_rviz_streetmap
+[submodule "agrorob_msgs"]
+	path = agrorob_msgs
+	url = https://github.com/icos-pit/agrorob_msgs
